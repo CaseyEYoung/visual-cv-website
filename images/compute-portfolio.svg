@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-label="Witty computing graphic with bug fix checklist">
+  <rect width="420" height="220" fill="#f6faff"/>
+  <rect x="50" y="34" width="320" height="152" rx="10" fill="#ffffff" stroke="#c9d9ef"/>
+  <text x="76" y="66" font-family="Arial, sans-serif" font-size="18" fill="#355b8a">Bug Tracker</text>
+  <rect x="76" y="82" width="16" height="16" rx="3" fill="#d4e6ff" stroke="#7fa2d2"/>
+  <path d="M80 90l4 4 8-9" stroke="#3568a2" stroke-width="2" fill="none"/>
+  <text x="102" y="95" font-family="Consolas, monospace" font-size="13" fill="#3a5f8f">Null pointer in auth flow</text>
+  <rect x="76" y="108" width="16" height="16" rx="3" fill="#d4e6ff" stroke="#7fa2d2"/>
+  <path d="M80 116l4 4 8-9" stroke="#3568a2" stroke-width="2" fill="none"/>
+  <text x="102" y="121" font-family="Consolas, monospace" font-size="13" fill="#3a5f8f">Typo in production banner 😅</text>
+  <rect x="76" y="134" width="16" height="16" rx="3" fill="#d4e6ff" stroke="#7fa2d2"/>
+  <text x="102" y="147" font-family="Consolas, monospace" font-size="13" fill="#3a5f8f">Refactor: make future me proud</text>
+  <circle cx="340" cy="62" r="16" fill="#ffd7d7"/>
+  <text x="332" y="68" font-family="Arial, sans-serif" font-size="16" fill="#b14a4a">🐞</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Subtle mathematics background with statistics and probability">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9fcff"/>
+      <stop offset="100%" stop-color="#edf5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <g stroke="#9ab7dc" stroke-width="3" fill="none">
+    <path d="M70 330H1130"/>
+    <rect x="140" y="245" width="90" height="85" fill="#dfeaf8"/>
+    <rect x="260" y="200" width="90" height="130" fill="#d7e6f8"/>
+    <rect x="380" y="165" width="90" height="165" fill="#cfe1f6"/>
+    <rect x="500" y="125" width="90" height="205" fill="#c7dcf4"/>
+  </g>
+  <path d="M700 300 C760 180, 840 160, 920 230 C980 280, 1050 260, 1120 145" fill="none" stroke="#7f9fcb" stroke-width="4"/>
+  <text x="100" y="90" font-family="Arial, sans-serif" font-size="24" fill="#5b7fae">P(A|B) = P(A∩B) / P(B)</text>
+  <text x="700" y="118" font-family="Arial, sans-serif" font-size="24" fill="#5b7fae">μ = Σx / n</text>
+</svg>

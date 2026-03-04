@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Subtle mathematics background with geometry sketches">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9fcff"/>
+      <stop offset="100%" stop-color="#eef6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <g fill="none" stroke="#a7c0e3" stroke-width="3">
+    <circle cx="220" cy="210" r="130"/>
+    <polygon points="520,95 760,325 390,325"/>
+    <rect x="830" y="95" width="260" height="230" rx="12"/>
+  </g>
+  <g stroke="#c1d4ee" stroke-width="2">
+    <path d="M220 80L220 340M90 210L350 210"/>
+    <path d="M390 325L760 325M520 95L390 325M520 95L760 325"/>
+  </g>
+  <text x="88" y="70" font-family="Arial, sans-serif" font-size="25" fill="#5e7ea8">A = πr² &nbsp;&nbsp; • &nbsp;&nbsp; c² = a² + b²</text>
+</svg>
